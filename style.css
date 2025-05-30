@@ -33,7 +33,7 @@ body {
     box-sizing: border-box;
 }
 
-@media (max-width: 600px) {
+@media (max-width: 450px) {
     .box {
         grid-template-columns: 1fr;
         grid-template-rows: repeat(6, 1fr);
